@@ -1,0 +1,29 @@
+
+.timeArea{
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.timePartition{
+    margin-left: 10px;
+}
+
+.buttonArea{
+    width: auto;
+    height: auto;
+}
+
+button{
+    width: 90px;
+    height: 50px;
+    font-weight: bold;
+}
+
+.addNone{
+    pointer-events: none;
+    background-color: #ccc;
+}
+
+
+
+
